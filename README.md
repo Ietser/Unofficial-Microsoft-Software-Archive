@@ -7,5 +7,10 @@ Currently included software:
 
 -MS-DOS (86-DOS) up to version 3.10b
 
-yy
+More comming soon...
+
+
+
+
+I DO NOT OWN ANY OF THE SOFTWARE HERE! © 1979-2026 Microsoft
  
