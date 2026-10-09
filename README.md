@@ -5,7 +5,9 @@ I provide ISO and IMG files for Microsoft software (:
 
 Currently included software:
 
--MS-DOS (86-DOS) up to version 3.30a
+-MS-DOS (86-DOS) up to version 4.01
+
+-Multitasking MS-DOS v4.00
 
 More comming soon...
 
